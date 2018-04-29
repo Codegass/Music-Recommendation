@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+data_in_matrixForm/
+YahooMusic/
 env/
 build/
 develop-eggs/
