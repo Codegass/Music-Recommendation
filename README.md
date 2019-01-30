@@ -1,5 +1,5 @@
 # Music-Recommendation
-Yahoo Music recommendation with Linear regression.
+Yahoo Music recommendation with Linear regression and complex feature engineering.
 
 Data set is million level so we use pyspark to clean the Data and doing the Matrix factorization.
 
